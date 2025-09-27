@@ -3,14 +3,15 @@
 /* 색상변경 */
 
 .post-body h2 {
-    border-left: 10px solid #eb5a14; 
-    border-bottom: 2px solid #eb5a14;
-	background-color:#ffdfcf;
+    border-left: 10px solid #eb5a14 !important; 
+    border-bottom: 2px solid #eb5a14 !important;
+	background-color:#ffdfcf !important;
 }
 
 
 .post-body h3 {
-	background-color:#fafafa;
-    border-bottom: 2px solid #eb5a14;
+	background-color:#fafafa !important;
+    border-bottom: 2px solid #eb5a14 !important;
 }
+
 
