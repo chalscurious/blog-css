@@ -1,15 +1,16 @@
 /* 색상변경 */
 
+/* h2 제목 꾸미기 */
 .post-body h2 {
-    border-left: 10px solid #eb5a14 !important; 
-    border-bottom: 2px solid #eb5a14 !important;
-	background-color:#ffdfcf !important;
+BORDER-LEFT: #eb5a14 10px solid;
+BACKGROUND-COLOR: #ffdfcf;
+BORDER-BOTTOM: 2px solid #eb5a14;                       
 }
 
-
+/* h3 제목 꾸미기 */
 .post-body h3 {
-	background-color:#fafafa !important;
-    border-bottom: 2px solid #eb5a14 !important;
+BACKGROUND-COLOR: #fafafa;
+BORDER-BOTTOM: 2px solid #eb5a14;                        
 }
 
 
