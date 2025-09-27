@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 /* 색상변경 */
 
 .post-body h2 {
@@ -13,5 +11,6 @@
 	background-color:#fafafa !important;
     border-bottom: 2px solid #eb5a14 !important;
 }
+
 
 
